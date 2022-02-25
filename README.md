@@ -26,6 +26,7 @@
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=Html)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
+![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-000?&logo=JAVASCRIPT)
 <br />
 
 ---
