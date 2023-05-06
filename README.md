@@ -2,10 +2,9 @@
 
 ## I'm a Computer Science Enthusiast , Web Developer and a passionate learner.
 
-- 🎓 I am currently in 2nd year, B.Tech in Computer Science from IEM,Kolkata.
+- 🎓 I am currently in 3rd year, B.Tech in Computer Science from IEM,Kolkata.
 - 👨‍💻 I am a web developer.
 - 👯 I ❤️ competitive coding.
-- 👨‍💻 Currently learning Javascript .
 
 ---
 ### Connect with me:
